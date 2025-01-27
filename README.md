@@ -15,8 +15,8 @@ A simple counter application that allows users to increment, decrement, and rese
 To get started with the Counter App, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/Hamzabaloch08/counter-app.git
-cd counter-app
+git clone https://github.com/Hamzabaloch08/counter-App.react.git
+cd counter-App.react
 npm install
 
 npm start
